@@ -1,7 +1,7 @@
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/ZBCUegTZF7M?si=ubt0vk70lSjt6DCs" target="_blank">
+    <a href="https://www.linkedin.com/in/alvinasenji/" target="_blank">
       <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
     </a>
   <br />
@@ -30,10 +30,6 @@
 ## Introduction
 
 This Video Sharing App is built with React Native, featuring Animatable for engaging animations and Appwrite for robust backend support. The app is designed to deliver a seamless user experience for sharing and exploring AI-generated videos within the community.
-
-Join our active Discord community with over 27k+ members for support and discussions.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" alt="Discord Community" /></a>
 
 ## Tech Stack
 
